@@ -1,0 +1,4 @@
+.hor-cont{
+  border-top: none;
+  border-bottom: 5px solid var(--main-bg-color);
+}

@@ -1,5 +1,6 @@
 .ad-cont{
-  border-bottom: 5px solid var(--main-bg-color);
+  border-top: 5px solid var(--main-bg-color);
+  z-index: 6;
 }
 .ad-cont p{
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;

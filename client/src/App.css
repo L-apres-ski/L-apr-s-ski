@@ -3,3 +3,15 @@
     --main-bg-color: #9d2d3e;
   }
   
+.info-cont{
+  position: absolute;
+  width: 100%;
+  top: 450px;
+  z-index: 10;
+}
+.head-cont{
+  position: absolute;
+  width: 100%;
+  top: 0px;
+  z-index: 10;
+}

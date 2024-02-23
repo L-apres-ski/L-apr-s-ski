@@ -1,5 +1,5 @@
 .header-title{
-  font-family: cursive;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .header-cont{
   height: 12vh;
@@ -7,3 +7,13 @@
   /* position: relative;
   overflow: hidden; */
 }
+.header-cont {
+  height: auto;
+  top: 10px;
+  /* transform: translate(-50%, -50%);  */
+  color: #fff; 
+  padding: 10px 20px; 
+  text-align: center;
+  text-shadow: 0px 0px 6px black;
+  z-index: 10;
+}  
