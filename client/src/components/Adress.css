@@ -1,0 +1,6 @@
+.ad-cont{
+  border-bottom: 5px solid var(--main-bg-color);
+}
+.ad-cont p{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
