@@ -1,5 +1,5 @@
 import React from "react";
-import cover from "../assets/charcuterie.jpeg"
+import cover from "../assets/raclette.jpg"
 import "./Cover.css"
 
 export default function Cover(){
