@@ -1,15 +1,16 @@
-
 :root {
-    --main-bg-color: #9d2d3e;
-  }
-  
-.info-cont{
+  /* --main-bg-color: #9d2d3e; */
+  --main-bg-color: #a1162b;
+  --pic-height: 427px;
+}
+
+.info-cont {
   position: absolute;
   width: 100%;
-  top: 450px;
+  top: var(--pic-height);
   z-index: 10;
 }
-.head-cont{
+.head-cont {
   position: absolute;
   width: 100%;
   top: 0px;

@@ -1,20 +1,20 @@
-.nav-cont{
-  height:max-content;
+.nav-cont {
+  height: max-content;
   border-bottom: 5px solid var(--main-bg-color);
   border-top: 5px solid var(--main-bg-color);
   z-index: 6;
 }
-.btn{
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.btn {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   height: 100%;
   padding: 3%;
   text-align: center;
 }
-.nav-cont button{
-   background-color: var(--main-bg-color);
+.nav-cont button {
+  background-color: var(--main-bg-color);
   /*border-top: 4px solid white; */
   color: white;
 }
-.nav-cont p{
+.nav-cont p {
   border-right: 5px solid var(--main-bg-color);
 }

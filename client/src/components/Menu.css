@@ -1,18 +1,17 @@
-
-.main-menu-cont{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.main-menu-cont {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   padding-bottom: 2em;
 }
-.item p{
+.item p {
   font-size: small;
   padding: 0.5em;
 }
-.raclette-main-cont h4{
+.raclette-main-cont h4 {
   padding: 1em;
   padding-bottom: 0.5em;
-  text-decoration:underline ;
+  text-decoration: underline;
 }
-.menu-soir{
+.menu-soir {
   border: 5px solid var(--main-bg-color);
   padding-bottom: 2em;
 }
