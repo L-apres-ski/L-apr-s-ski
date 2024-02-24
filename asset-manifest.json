@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/L-apr-s-ski/static/css/main.d261c3e6.css",
+    "main.js": "/L-apr-s-ski/static/js/main.646bf78e.js",
+    "static/js/787.d5fa4d18.chunk.js": "/L-apr-s-ski/static/js/787.d5fa4d18.chunk.js",
+    "static/media/raclette.jpg": "/L-apr-s-ski/static/media/raclette.4d03cf040a8e6e2eecf8.jpg",
+    "index.html": "/L-apr-s-ski/index.html",
+    "main.d261c3e6.css.map": "/L-apr-s-ski/static/css/main.d261c3e6.css.map",
+    "main.646bf78e.js.map": "/L-apr-s-ski/static/js/main.646bf78e.js.map",
+    "787.d5fa4d18.chunk.js.map": "/L-apr-s-ski/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d261c3e6.css",
+    "static/js/main.646bf78e.js"
+  ]
+}
