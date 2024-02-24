@@ -1,10 +1,16 @@
 .top-cont,
 .bottom-cont {
-  border-bottom: 5px solid var(--main-bg-color);
+  border-bottom: 3px solid var(--accent-color);
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+.top-cont {
+  border-top: 3px solid var(--accent-color);
+}
 .soir {
-  border-right: 5px solid var(--main-bg-color);
-  background-color: var(--main-bg-color);
+  border-right: 3px solid var(--accent-color);
+  background-color: var(--accent-color);
   color: white;
+}
+.pres-day {
+  font-family: Stalemate;
 }

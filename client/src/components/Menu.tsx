@@ -4,7 +4,9 @@ import "./Menu.css";
 export default function Menu() {
   return (
     <div className="main-menu-cont flex flex-col items-center justify-center bg-red-50">
-      <h1 className="main-menu-title p-4 text-3xl font-bold">Notre Menu</h1>
+      <h1 className="main-menu-title mt-2 p-4 text-5xl font-bold">
+        Notre Menu
+      </h1>
       <div className="menu-soir w-11/12 items-center justify-center bg-red-200 ">
         <h2 className="soir-title p-2 text-center text-2xl">
           <em>Le Soir</em>

@@ -1,0 +1,13 @@
+.other-cont p + p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.soir > .pres-day {
+  margin-top: 3%;
+}
+.pres-day {
+  font-family: Stalemate;
+}
+.other-cont {
+  border-top: 2px solid var(--accent-color);
+  border-bottom: 2px solid var(--accent-color);
+}

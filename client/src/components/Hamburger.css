@@ -1,0 +1,107 @@
+.ham-cont {
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 10px;
+}
+.ham {
+  top: 0px;
+  left: 30px;
+}
+.menu-nav > .btn {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  width: 100%;
+}
+.menu-nav.show-menu > .btn {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  width: 100%;
+}
+.menu-nav {
+  width: 0%;
+  overflow: hidden;
+  border: none;
+}
+.menu-nav.show-menu {
+  width: 50%;
+  border: 2px solid var(--accent-color);
+  position: absolute;
+  top: 65px;
+  left: 10px;
+}
+.hamburger {
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+
+.hamburger .bar {
+  padding: 0;
+  width: 30px;
+  height: 4px;
+  background-color: maroon;
+  display: block;
+  border-radius: 4px;
+  transition: all 0.4s ease-in-out;
+  position: absolute;
+}
+
+.bar1 {
+  top: 0;
+}
+
+.bar2,
+.bar3 {
+  top: 13.5px;
+}
+
+.bar3 {
+  right: 0;
+}
+
+.bar4 {
+  bottom: 0;
+}
+.checkbox1 {
+  position: absolute;
+  top: 0px;
+  left: 10px;
+  display: none;
+  width: 10%;
+}
+.checkbox1 label {
+  width: 10%;
+}
+/* HAMBURGER 1 */
+.checkbox1:checked + label > .hamburger1 > .bar1 {
+  transform: rotate(45deg);
+  transform-origin: 5%;
+  width: 41px;
+}
+
+.checkbox1:checked + label > .hamburger1 > .bar2 {
+  transform: translateX(-40px);
+  background-color: transparent;
+}
+
+.checkbox1:checked + label > .hamburger1 > .bar3 {
+  transform: translateX(40px);
+  background-color: transparent;
+}
+
+.checkbox1:checked + label > .hamburger1 > .bar4 {
+  transform-origin: 5%;
+  transform: rotate(-45deg);
+  width: 41px;
+}
+.visuallyHidden {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
