@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/L-apres-ski/static/css/main.2a125bdd.css",
-    "main.js": "/L-apres-ski/static/js/main.1d6b0362.js",
+    "main.css": "/L-apres-ski/static/css/main.aea4e829.css",
+    "main.js": "/L-apres-ski/static/js/main.f9261f5a.js",
     "static/js/787.d5fa4d18.chunk.js": "/L-apres-ski/static/js/787.d5fa4d18.chunk.js",
-    "static/media/Fondue-Toulouse©M.studio-AdobeStock.jpeg": "/L-apres-ski/static/media/Fondue-Toulouse©M.studio-AdobeStock.e35832edb50441c4db29.jpeg",
+    "static/media/front.jpeg": "/L-apres-ski/static/media/front.9b095e11162eec11164c.jpeg",
     "static/media/raclette.jpg": "/L-apres-ski/static/media/raclette.4d03cf040a8e6e2eecf8.jpg",
     "index.html": "/L-apres-ski/index.html",
-    "main.2a125bdd.css.map": "/L-apres-ski/static/css/main.2a125bdd.css.map",
-    "main.1d6b0362.js.map": "/L-apres-ski/static/js/main.1d6b0362.js.map",
+    "main.aea4e829.css.map": "/L-apres-ski/static/css/main.aea4e829.css.map",
+    "main.f9261f5a.js.map": "/L-apres-ski/static/js/main.f9261f5a.js.map",
     "787.d5fa4d18.chunk.js.map": "/L-apres-ski/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a125bdd.css",
-    "static/js/main.1d6b0362.js"
+    "static/css/main.aea4e829.css",
+    "static/js/main.f9261f5a.js"
   ]
 }
