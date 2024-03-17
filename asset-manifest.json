@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/L-apres-ski/static/css/main.2dc14564.css",
-    "main.js": "/L-apres-ski/static/js/main.05089eb8.js",
+    "main.css": "/L-apres-ski/static/css/main.e6877c4c.css",
+    "main.js": "/L-apres-ski/static/js/main.3714fa58.js",
     "static/js/787.d5fa4d18.chunk.js": "/L-apres-ski/static/js/787.d5fa4d18.chunk.js",
     "static/media/front.jpeg": "/L-apres-ski/static/media/front.9b095e11162eec11164c.jpeg",
-    "static/media/raclette.jpg": "/L-apres-ski/static/media/raclette.4d03cf040a8e6e2eecf8.jpg",
+    "static/media/charcuterie.jpeg": "/L-apres-ski/static/media/charcuterie.5e4266ed584d32aaa98b.jpeg",
     "index.html": "/L-apres-ski/index.html",
-    "main.2dc14564.css.map": "/L-apres-ski/static/css/main.2dc14564.css.map",
-    "main.05089eb8.js.map": "/L-apres-ski/static/js/main.05089eb8.js.map",
+    "main.e6877c4c.css.map": "/L-apres-ski/static/css/main.e6877c4c.css.map",
+    "main.3714fa58.js.map": "/L-apres-ski/static/js/main.3714fa58.js.map",
     "787.d5fa4d18.chunk.js.map": "/L-apres-ski/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dc14564.css",
-    "static/js/main.05089eb8.js"
+    "static/css/main.e6877c4c.css",
+    "static/js/main.3714fa58.js"
   ]
 }
